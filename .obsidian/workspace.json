@@ -93,7 +93,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "e21b988c1d92dd72",
+  "active": "f07df19bcfaade2f",
   "lastOpenFiles": [
     "images/c003s002f003.gif",
     "images",
