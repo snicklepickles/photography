@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -187,8 +188,10 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "32b7fa3453dd3f06",
+  "active": "e21b988c1d92dd72",
   "lastOpenFiles": [
+    "images/c003s002f003.gif",
+    "images",
     "create a link.md",
     "Camera Lenses.md",
     "Welcome.md",
@@ -214,7 +217,6 @@
     "Male Anatomy.md",
     "Insulin.md",
     "Gut Motility.md",
-    "Glucose Counterregulation.md",
     "images/Neuronal Control-20241006230938102.png",
     "images/Neuronal Control-20241006230927039.png",
     "images/Melanocortin Pathway-20241006230900964.png",
@@ -230,7 +232,6 @@
     "Excalidraw",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
-    "Excalidraw/images",
-    "images"
+    "Excalidraw/images"
   ]
 }
